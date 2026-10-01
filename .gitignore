@@ -4,3 +4,6 @@ weights/
 *.onnx
 pip.log
 __pycache__/
+BiRefNet/
+test.jpg
+mask.png
