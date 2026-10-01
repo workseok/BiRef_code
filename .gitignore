@@ -1,0 +1,6 @@
+.venv/
+weights/
+*.pth
+*.onnx
+pip.log
+__pycache__/
